@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/io_stream/user_parametric_manipulator_using/build-user_parametric_manipulator_using-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/io_stream/user_parametric_manipulator_using/build-user_parametric_manipulator_using-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/io_stream/user_parametric_manipulator_using/build-user_parametric_manipulator_using-Desktop-Debug/CMakeFiles/user_parametric_manipulator_using.dir

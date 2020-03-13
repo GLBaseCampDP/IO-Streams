@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "user_parametric_manipulator_using",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "user_parametric_manipulator_using::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user_parametric_manipulator_using-Debug-6246e8a08bfc004a2ca7.json",
+					"name" : "user_parametric_manipulator_using",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dpeleshko/work/C-C++/qt/io_stream/user_parametric_manipulator_using/build-user_parametric_manipulator_using-Desktop-Debug",
+		"source" : "/home/dpeleshko/work/C-C++/qt/io_stream/user_parametric_manipulator_using/user_parametric_manipulator_using"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
